@@ -3,20 +3,26 @@
 I'm a fourth-year integrated M.Tech student in Software Engineering at Vellore Institute of Technology, India. As a tech enthusiast and aspiring software developer, I enjoy learning new technologies and working on interesting projects.
 
 ## Skills
-🔍 Problem Solving: I have a strong foundation in algorithms and data structures, and I enjoy solving programming challenges on platforms like LeetCode and HackerRank.
+🔍 Analytical Problem Solving 
 
-💻 Web Technologies: I have experience working with front-end web development technologies such as HTML, CSS, and JavaScript, and I'm currently learning React to build more complex web applications.
+💻 Web Technologies
 
-👁️ Computer Vision and AI: I'm fascinated by the possibilities of computer vision and artificial intelligence, and I'm currently exploring this field through online courses and personal projects.
+👁️ Computer Vision and AI
 
-🤝 Collaboration: I'm comfortable working in teams and collaborating with others, and I value clear communication and constructive feedback.
+🤝 Collaboration
+
+📖 Learning BlockChain and Web3
+
 
 ## Coding Profiles
 
-- LeetCode: [ayushLeet](https://leetcode.com/developerarya17/) <img align="left" alt="LeetCode" width="26px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
-- CodeChef: [ayushChef](https://www.codechef.com/users/eleven_121) <img align="left" alt="CodeChef" width="26px" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" />
-- Codeforces: [ayushForces](https://codeforces.com/profile/memoryDestroyer) <img align="left" alt="Codeforces" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png"/>
-- GeeksForGeeks: [ayushGeek](https://auth.geeksforgeeks.org/user/developerarya17/) <img align="left" alt="Codeforces" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png"/>
+LeetCode: [ayushLeet](https://leetcode.com/developerarya17/) <img align="left" alt="LeetCode" width="26px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+
+CodeChef: [ayushChef](https://www.codechef.com/users/eleven_121) <img align="left" alt="CodeChef" width="26px" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" />
+
+Codeforces: [ayushForces](https://codeforces.com/profile/memoryDestroyer) <img align="left" alt="Codeforces" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png"/>
+
+GeeksForGeeks: [ayushGeek](https://auth.geeksforgeeks.org/user/developerarya17/) <img align="left" alt="Codeforces" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png"/>
 
 
 ## Contact
