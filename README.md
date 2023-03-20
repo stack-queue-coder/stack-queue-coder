@@ -2,13 +2,6 @@
 
 I'm a fourth-year integrated M.Tech student in Software Engineering at Vellore Institute of Technology, India. As a tech enthusiast and aspiring software developer, I enjoy learning new technologies and working on interesting projects.
 
-## Coding Profiles
-
-- LeetCode: [username](https://leetcode.com/username) <img align="left" alt="LeetCode" width="26px" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" />
-- CodeChef: [username](https://www.codechef.com/users/username) <img align="left" alt="CodeChef" width="26px" src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.png" />
-- Codeforces: [username](https://codeforces.com/profile/username) <img align="left" alt="Codeforces" width="26px" src="https://sta.codeforces.com/s/75174/images/codeforces-logo-with-telegram.png" />
-
-
 ## Skills
 🔍 Problem Solving: I have a strong foundation in algorithms and data structures, and I enjoy solving programming challenges on platforms like LeetCode and HackerRank.
 
@@ -18,12 +11,22 @@ I'm a fourth-year integrated M.Tech student in Software Engineering at Vellore I
 
 🤝 Collaboration: I'm comfortable working in teams and collaborating with others, and I value clear communication and constructive feedback.
 
+## Coding Profiles
+
+- LeetCode: [ayushLeet](https://leetcode.com/developerarya17/) <img align="left" alt="LeetCode" width="26px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+- CodeChef: [ayushChef](https://www.codechef.com/users/eleven_121) <img align="left" alt="CodeChef" width="26px" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" />
+- Codeforces: [ayushForces](https://codeforces.com/profile/memoryDestroyer) <img align="left" alt="Codeforces" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png"/>
+- GeeksForGeeks: [ayushGeek](https://auth.geeksforgeeks.org/user/developerarya17/) <img align="left" alt="Codeforces" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png"/>
+
+
 ## Contact
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayush-arya-4a7647193/) if you're interested in collaborating on a project or just want to say hello!
+Feel free to reach out to me.
+### My socials:
+[LinkedIn](https://www.linkedin.com/in/ayush-arya-4a7647193/) if you're interested in collaborating on a project or just want to say hello!
 
 ## Technologies
 Here are some of the technologies I'm familiar with:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
