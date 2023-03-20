@@ -18,13 +18,6 @@ I'm a fourth-year integrated M.Tech student in Software Engineering at Vellore I
 
 🤝 Collaboration: I'm comfortable working in teams and collaborating with others, and I value clear communication and constructive feedback.
 
-## Projects
-📁 [Friendbase](https://github.com/ayush-aryan/Friendbase): A simple web application for storing and managing contact lists using MongoDB and Node.js.
-
-📊 [CodeCracker](https://github.com/ayush-aryan/CodeCracker): A website that generates programming problems and evaluates user-submitted solutions, built using Flask and Vue.js.
-
-👦 [Face Detection and Recognition](https://github.com/ayush-aryan/Face-Detection-and-Recognition): A project that uses OpenCV and deep learning models to detect and recognize faces in real-time video streams.
-
 ## Contact
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayush-arya-4a7647193/) if you're interested in collaborating on a project or just want to say hello!
 
@@ -41,4 +34,3 @@ Here are some of the technologies I'm familiar with:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](
